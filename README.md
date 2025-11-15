@@ -28,6 +28,15 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
+   <img src="https://skillicons.dev/icons?i=excel" width="45"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bigquery" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://skillicons.dev/icons?i=sql" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45"/>
