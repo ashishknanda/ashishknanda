@@ -4,8 +4,6 @@
 
 ---
 
-### 🧪 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishknanda&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishknanda&layout=compact&theme=tokyonight" height="170" />
@@ -17,7 +15,7 @@
 
 ---
 
-### 📊 Summary Cards
+### 📊 Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishknanda&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishknanda&theme=2077)
@@ -27,7 +25,6 @@
 
 ### 🛠️ Tech Stack
 
-🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
@@ -37,6 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
+
 ---
 
 ### 🚀 About Me
